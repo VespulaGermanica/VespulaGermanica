@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VespulaGermanica
 - 👀 I’m interested in Machine Learning, Robotics, Electrical and Electronic Engineering and Measuring Techniques
-- 🌱 I’m currently learning Python, Statistics and how to make AI
+- 🌱 I’m currently learning Julia, Python, Statistics and how to make AI
 - 📫 How to reach me: pavlina.morvay@gmail.com
 
 <!---
